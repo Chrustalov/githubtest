@@ -1,0 +1,27 @@
+body{
+background-color: cornflowerblue;
+margin:0;
+font-size:14px;
+columns: #333333; 
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin:0;
+}
+
+.container{
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+}
+
+.subtitle{
+font-size:45px;
+text-align: center;
+}
+
+.title{
+font-size:100px;
+text-transform: uppercase;
+text-align: center;
+}
